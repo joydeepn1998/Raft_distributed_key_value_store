@@ -1,6 +1,8 @@
 # Raft_implementation
-Implementation of the Raft consensus algorithm
-https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
+Implementation of the Raft consensus algorithm.  
+Check here for a more thorough understanding -https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/   
+
+Credits to the Raft paper - https://raft.github.io/raft.pdf  
 
 ### MapReduce
 
